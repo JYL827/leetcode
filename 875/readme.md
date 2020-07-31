@@ -7,3 +7,6 @@
 [leetcode animation](https://github.com/MisterBooo/LeetCodeAnimation)
 
 ## 原题分析
+    N堆香蕉 piles[3,6,7,11]
+    H小时会来  输出4
+    K 根/小时
